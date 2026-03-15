@@ -203,11 +203,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 Built by a Support Engineer as a practical Bash portfolio project.
-<<<<<<< HEAD
+
 - GitHub: [@von-truber](https://github.com/von-truber)
-=======
-- GitHub: [@yourusername](https://github.com/von-)
->>>>>>> 3c47b63e6c5575bd724f1a412a408a21aa5fa42a
 
 ---
 
